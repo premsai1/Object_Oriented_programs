@@ -1,0 +1,13 @@
+[ {
+  "stock_name" : "flipkart",
+  "no_of_shares" : 100,
+  "share_price" : 500
+}, {
+  "stock_name" : "microsoft",
+  "no_of_shares" : 100,
+  "share_price" : 500
+}, {
+  "stock_name" : "amazon",
+  "no_of_shares" : 100,
+  "share_price" : 500
+} ]

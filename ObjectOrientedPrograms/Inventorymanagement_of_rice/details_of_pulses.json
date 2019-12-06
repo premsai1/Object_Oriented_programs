@@ -1,0 +1,13 @@
+[ {
+  "name_of_grain" : "rice",
+  "weight_of_grain" : 100,
+  "price_of_the_day" : 500
+}, {
+  "name_of_grain" : "wheat",
+  "weight_of_grain" : 10,
+  "price_of_the_day" : 40
+}, {
+  "name_of_grain" : "pappu",
+  "weight_of_grain" : 50,
+  "price_of_the_day" : 5000
+} ]
